@@ -1,6 +1,8 @@
 # Pavlovian2Cue
-custom MATLAB scripts to run 2-cue Pavlovian task (see Bouabid et al., 2025; Bouabid, Bu, et al., 2026)
-
+custom MATLAB scripts to run 2-cue Pavlovian task. See: 
+- Bouabid S, Zhang L, Vu M-AT, Tang K, Graham BM, Noggle CA, Howe MW. Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations. Nature Communications 16, 5169 (2025).
+- Safa Bouabid*, Mai-Anh T. Vu*, Christian Noggle, Stefania Vietti-Michelina, Katherine Brimblecomb, Nicola Platt, Liangzhu Zhang, Anil Joshi, Stephanie Cragg, and Mark W. Howe. (2026) An anatomical hotspot for striatal dopamine-acetylcholine interactions during reward and movement.
+  
 ## Notes: 
 This task was developed and implemented in MATLAB2015b. It is also compatible with 2016 releases of MATLAB. For hardware setup, see:
 - Bouabid S, Zhang L, Vu M-AT, Tang K, Graham BM, Noggle CA, Howe MW. Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations. Nature Communications 16, 5169 (2025).
@@ -8,8 +10,7 @@ This task was developed and implemented in MATLAB2015b. It is also compatible wi
 
 # License and Citation
 If you use use this code in your research, please cite:
-
-Bouabid S, Zhang L, Vu M-AT, Tang K, Graham BM, Noggle CA, Howe MW. Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations. Nature Communications 16, 5169 (2025). 
+- Bouabid S, Zhang L, Vu M-AT, Tang K, Graham BM, Noggle CA, Howe MW. Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations. Nature Communications 16, 5169 (2025). 
 
 This repository is released under the MIT License - see the LICENSE file for details.
 
