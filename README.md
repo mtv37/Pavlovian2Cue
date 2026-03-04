@@ -1,5 +1,5 @@
 # Pavlovian2Cue
-Custom MATLAB scripts to run 2-cue Pavlovian task, written and developed by Mai-Anh Vu in MATLAB2015b. See: 
+Custom MATLAB scripts to run Howe Lab 2-cue Pavlovian task, written and developed by Mai-Anh Vu in MATLAB2015b. See: 
 - Bouabid S, Zhang L, Vu M-AT, Tang K, Graham BM, Noggle CA, Howe MW. Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations. Nature Communications 16, 5169 (2025).
 - Safa Bouabid*, Mai-Anh T. Vu*, Christian Noggle, Stefania Vietti-Michelina, Katherine Brimblecomb, Nicola Platt, Liangzhu Zhang, Anil Joshi, Stephanie Cragg, and Mark W. Howe. (2026) An anatomical hotspot for striatal dopamine-acetylcholine interactions during reward and movement.
   
